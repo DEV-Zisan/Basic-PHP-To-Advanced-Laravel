@@ -1,5 +1,4 @@
 
-
 <?php
 
 // Case Study:
@@ -42,3 +41,5 @@ echo gettype ($codi);
 echo $codi;
 // Data type resultl is boolean
 ?>
+
+<img src="" alt="Img">
